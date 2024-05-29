@@ -29,7 +29,7 @@ namespace ProjetoControleFinanceiro_Julius {
         }
 
         public static void MostrarSaldo() {
-            Console.WriteLine("Seu saldo é: "+saldo.ToString("F2",CultureInfo.InvariantCulture));
+            Console.WriteLine("Seu saldo é: "+ saldo.ToString("F2",CultureInfo.InvariantCulture));
         }
 
 

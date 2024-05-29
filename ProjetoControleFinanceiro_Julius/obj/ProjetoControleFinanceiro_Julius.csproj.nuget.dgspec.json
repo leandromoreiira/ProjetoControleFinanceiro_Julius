@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leand\\source\\repos\\ProjetoControleFinanceiro_Julius\\ProjetoControleFinanceiro_Julius\\ProjetoControleFinanceiro_Julius.csproj": {}
+    "C:\\Users\\leand\\Documents\\Programação\\C#\\Projetos\\ProjetoControleFinanceiro_Julius\\ProjetoControleFinanceiro_Julius\\ProjetoControleFinanceiro_Julius.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leand\\source\\repos\\ProjetoControleFinanceiro_Julius\\ProjetoControleFinanceiro_Julius\\ProjetoControleFinanceiro_Julius.csproj": {
+    "C:\\Users\\leand\\Documents\\Programação\\C#\\Projetos\\ProjetoControleFinanceiro_Julius\\ProjetoControleFinanceiro_Julius\\ProjetoControleFinanceiro_Julius.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leand\\source\\repos\\ProjetoControleFinanceiro_Julius\\ProjetoControleFinanceiro_Julius\\ProjetoControleFinanceiro_Julius.csproj",
+        "projectUniqueName": "C:\\Users\\leand\\Documents\\Programação\\C#\\Projetos\\ProjetoControleFinanceiro_Julius\\ProjetoControleFinanceiro_Julius\\ProjetoControleFinanceiro_Julius.csproj",
         "projectName": "ProjetoControleFinanceiro_Julius",
-        "projectPath": "C:\\Users\\leand\\source\\repos\\ProjetoControleFinanceiro_Julius\\ProjetoControleFinanceiro_Julius\\ProjetoControleFinanceiro_Julius.csproj",
+        "projectPath": "C:\\Users\\leand\\Documents\\Programação\\C#\\Projetos\\ProjetoControleFinanceiro_Julius\\ProjetoControleFinanceiro_Julius\\ProjetoControleFinanceiro_Julius.csproj",
         "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leand\\source\\repos\\ProjetoControleFinanceiro_Julius\\ProjetoControleFinanceiro_Julius\\obj\\",
+        "outputPath": "C:\\Users\\leand\\Documents\\Programação\\C#\\Projetos\\ProjetoControleFinanceiro_Julius\\ProjetoControleFinanceiro_Julius\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
